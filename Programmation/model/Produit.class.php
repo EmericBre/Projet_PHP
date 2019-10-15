@@ -31,6 +31,7 @@
 
     function getPrix() : float {
         return $this->prix;
+        
     }
 
   }
