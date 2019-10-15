@@ -9,4 +9,4 @@ Cela semble important de voir ce qui existe déjà, et d'analyser ces sites afin
 
   Prenons l'exemple du site Nexter :
 
-    Ce site possède plusieurs pages différentes permettant de renseigner l'utilisateur concernant les marques vendeuses de matériel sur le site. De plus, il permet également de voir quels équipements sont vendus. Enfin, il donne des informations plus générales sur le site et les marques vendeuses. De manière plus générale, 
+    Ce site possède plusieurs pages différentes permettant de renseigner l'utilisateur concernant les marques vendeuses de matériel sur le site. De plus, il permet également de voir quels équipements sont vendus. Enfin, il donne des informations plus générales sur le site et les marques vendeuses. De manière plus générale,
