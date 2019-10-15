@@ -1,0 +1,5 @@
+Projet php
+  Baptiste Bihan
+  Emeric Breton
+
+Type de site : site informationnel multi-marques de vente de matériels militaires divers
