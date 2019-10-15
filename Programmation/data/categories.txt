@@ -1,0 +1,23 @@
+1|Terre|1
+2|Air|2
+3|Mer|3
+11|Matériel individuel|1
+12|Artillerie|1
+13|Transports|1
+14|Véhicules de combat et d'infanterie|1
+15|Chars|1
+21|Avions|2
+22|Hélicotpères|2
+31|Porte-avions|3
+32|Sous-marins|3
+33|Destroyers|3
+34|Croiseurs|3
+35|Frégates|3
+211|Avions de chasse|21
+212|Intercepteurs|21
+213|Avions d'attaque au sol|21
+214|Bombardiers|21
+215|Transports|21
+221|Hélicotpères d'attaque|22
+222|Hélicotpères de reconnaissance|22
+223|Hélicotpères de transport|22
