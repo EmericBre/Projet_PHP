@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 1111|
 1112|
 1113|
+=======
+111|
+>>>>>>> e805af93c04bfc0f86caf43b947d6d73a4e8fe7b
 M16
 FAMAS
 AK-47
@@ -96,6 +100,12 @@ classe Ohio
 classe Vanguard
 
 33|
+<<<<<<< HEAD
 classe
+=======
+classe Ticonderoga
+>>>>>>> e805af93c04bfc0f86caf43b947d6d73a4e8fe7b
 
 34|
+classe Lafayette
+classe FREMM
