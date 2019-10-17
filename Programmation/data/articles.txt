@@ -1,0 +1,88 @@
+1111|
+M16
+FAMAS
+AK-47
+
+112|
+MG3
+FN Minimi
+M60
+
+113|
+OB64 - UGO
+PULSAR ACOLADE LRF XQ38
+
+121|
+MO 120 RT
+M224
+
+122|
+CAESAR
+TRF1
+
+123|
+M270 MLRS
+
+13|
+VAB
+PVP
+VBMR Griffon
+
+14|
+VBCI
+AMX-10 RC
+
+15|
+Char Leclerc
+M1 Abrams
+Leopard 2
+
+211|
+Dassault Rafale
+Eurofighter Typhoon
+Lockheed Martin F-22 Raptor
+
+212|
+Grumman F-14 Tomcat
+MIG-31
+
+213|
+Fairchild A-10 Thunderbolt II
+McDonnell Douglas F/A-18 Hornet
+
+214|
+Rockwell B-1 Lancer
+Boeing B-52 Stratofortress
+
+215|
+Airbus A400M
+C-130 Hercules
+Transall C-160
+
+221|
+Eurocopter EC665 Tigre
+AH-1W Super Cobra
+
+222|
+Gazelle
+MD Helicopters MH-6 Little Bird
+Hughes MD 500 Defender
+
+223|
+H160M Guépard
+Boeing CH-47 Chinook
+
+31|
+classe Mistral
+classe Gerald R. Ford
+classe Nimitz
+
+32|
+classe Le Triomphant
+classe Ohio
+classe Vanguard
+
+33|
+classe 
+
+34|

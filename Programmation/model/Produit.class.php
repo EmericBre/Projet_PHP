@@ -7,6 +7,8 @@
     private $description; //texte descriptif
     private $caracteristiques; //caractéristiques
     private $prix; //prix du produit
+    private $fabricant; //adresse du point de vente et nom de l'entreprise productrice
+    private $dispo; //0 = non disponible 1 = en stock
 
     //getters
     function getRef() : int {
@@ -32,6 +34,14 @@
     function getPrix() : float {
         return $this->prix;
 
+    }
+
+    function getFabricant() : string {
+      return $this->fabricant;
+    }
+
+    function getDispo() : int {
+      return $this->dispo;
     }
 
   }
