@@ -55,24 +55,15 @@
 2231||H160M Guépard|
 2232||Boeing CH-47 Chinook|
 
-311|
-312|
-313|
-classe Mistral
-classe Gerald R. Ford
-classe Nimitz
+311||classe Mistral|
+312||classe Gerald R. Ford|
+313||classe Nimitz|
 
-321|
-322|
-323|
-classe Le Triomphant
-classe Ohio
-classe Vanguard
+321||classe Le Triomphant|
+322||classe Ohio|
+323||classe Vanguard|
 
-331|
-classe Ticonderoga
+331||classe Ticonderoga|
 
-341|
-342|
-classe Lafayette
-classe FREMM
+341||classe Lafayette|
+342||classe FREMM|
