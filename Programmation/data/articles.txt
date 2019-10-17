@@ -1,4 +1,4 @@
-1111|
+111|
 M16
 FAMAS
 AK-47
@@ -83,6 +83,8 @@ classe Ohio
 classe Vanguard
 
 33|
-classe 
+classe Ticonderoga
 
 34|
+classe Lafayette
+classe FREMM
