@@ -1,111 +1,78 @@
-<<<<<<< HEAD
-1111|
-1112|
-1113|
-=======
-111|
->>>>>>> e805af93c04bfc0f86caf43b947d6d73a4e8fe7b
-M16
-FAMAS
-AK-47
+1111||M16|
+1112||FAMAS|
+1113||AK-47|
 
-1121|
-1122|
-1123|
-MG3
-FN Minimi
-M60
+1121||MG3|
+1122||FN Minimi|
+1123||M60|
 
-1131|
-1132|
-OB64 - UGO
-PULSAR ACOLADE LRF XQ38
+1131||OB64 - UGO|
+1132||PULSAR ACOLADE LRF XQ38|
 
-1211|
-1212|
-MO 120 RT
-M224
+1211||MO 120 RT|
+1212||M224|
 
-1221|
-1222|
-CAESAR
-TRF1
+1221||CAESAR|
+1222||TRF1|
 
-1231|
-M270 MLRS
+1231||M270 MLRS|
 
-131|
-132|
-133|
-VAB
-PVP
-VBMR Griffon
+131||VAB|
+132||PVP|
+133||VBMR Griffon|
 
-141|
-142|
-VBCI
-AMX-10 RC
+141||VCBI|
+142||AMX-10 RC|
 
-151|
-152|
-153|
-Char Leclerc
-M1 Abrams
-Leopard 2
+151||Char Leclerc|
+152||M1 Abrams|
+153||Leopard 2|
 
-2111|
+2111||Dassault Rafale|
+2112||Eurofighter Typhoon|
+2113||Lockheed Martin F-22 Raptor|
 
-Dassault Rafale
-Eurofighter Typhoon
-Lockheed Martin F-22 Raptor
+2121||Grumman F-14 Tomcat|
+2122||MIG-31|
 
-212|
-Grumman F-14 Tomcat
-MIG-31
+2131||Fairchild A-10 Thunderbolt II|
+2132||McDonnell Douglas F/A-18 Hornet|
 
-213|
-Fairchild A-10 Thunderbolt II
-McDonnell Douglas F/A-18 Hornet
+2141||Rockwell B-1 Lancer|
+2142||Boeing B-52 Stratofortress|
 
-214|
-Rockwell B-1 Lancer
-Boeing B-52 Stratofortress
+2151||Airbus A400M|
+2152||C-130 Hercules|
+2153||Transall C-160|
 
-215|
-Airbus A400M
-C-130 Hercules
-Transall C-160
+2211||Eurocopter EC665 Tigre|
+2212||AH-1W Super Cobra|
 
-221|
-Eurocopter EC665 Tigre
-AH-1W Super Cobra
+2221||Gazelle|
+2222||MD Helicopters MH-6 Little Bird|
+2223||Hughes MD 500 Defender|
 
-222|
-Gazelle
-MD Helicopters MH-6 Little Bird
-Hughes MD 500 Defender
+2231||H160M Guépard|
+2232||Boeing CH-47 Chinook|
 
-223|
-H160M Guépard
-Boeing CH-47 Chinook
-
-31|
+311|
+312|
+313|
 classe Mistral
 classe Gerald R. Ford
 classe Nimitz
 
-32|
+321|
+322|
+323|
 classe Le Triomphant
 classe Ohio
 classe Vanguard
 
-33|
-<<<<<<< HEAD
-classe
-=======
+331|
 classe Ticonderoga
->>>>>>> e805af93c04bfc0f86caf43b947d6d73a4e8fe7b
 
-34|
+341|
+342|
 classe Lafayette
 classe FREMM
