@@ -43,6 +43,7 @@
 
     function getDispo() : int {
       return $this->dispo;
+    }
 
     // Le constructeur peut être appelé par la Base de Données (BD)
     function __construct(string $ref=NULL,string $titre=NULL,float $prix=NULL) {
@@ -62,8 +63,6 @@
 
       // Ces valeurs doivent être strictement positives
       assert($this->prix > 0);
-
-    }
 
   }
 
