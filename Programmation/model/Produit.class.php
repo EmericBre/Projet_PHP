@@ -36,7 +36,6 @@
 
     }
 
-
     function getFabricant() : string {
       return $this->fabricant;
     }

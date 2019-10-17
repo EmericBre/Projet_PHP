@@ -1,43 +1,56 @@
 1111|
+1112|
+1113|
 M16
 FAMAS
 AK-47
 
-112|
+1121|
+1122|
+1123|
 MG3
 FN Minimi
 M60
 
-113|
+1131|
+1132|
 OB64 - UGO
 PULSAR ACOLADE LRF XQ38
 
-121|
+1211|
+1212|
 MO 120 RT
 M224
 
-122|
+1221|
+1222|
 CAESAR
 TRF1
 
-123|
+1231|
 M270 MLRS
 
-13|
+131|
+132|
+133|
 VAB
 PVP
 VBMR Griffon
 
-14|
+141|
+142|
 VBCI
 AMX-10 RC
 
-15|
+151|
+152|
+153|
 Char Leclerc
 M1 Abrams
 Leopard 2
 
-211|
+2111|
+
 Dassault Rafale
 Eurofighter Typhoon
 Lockheed Martin F-22 Raptor
@@ -83,6 +96,6 @@ classe Ohio
 classe Vanguard
 
 33|
-classe 
+classe
 
 34|
