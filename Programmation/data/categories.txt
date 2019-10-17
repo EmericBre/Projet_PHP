@@ -21,3 +21,10 @@
 221|Hélicotpères d'attaque|22
 222|Hélicotpères de reconnaissance|22
 223|Hélicotpères de transport|22
+111|Fusils d'assaut|11
+112|Fusils mitrailleurs|11
+113|Grenades|11
+114|Matériel optique|11
+121|Mortiers|12
+122|Obusiers|12
+123|Lance Roquettes|12
