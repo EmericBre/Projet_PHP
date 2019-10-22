@@ -1,5 +1,6 @@
 CREATE TABLE article (
   ref INTEGER PRIMARY KEY,
+  categorie INTEGER,
   image TEXT,
   titre TEXT,
   description TEXT,
