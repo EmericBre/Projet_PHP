@@ -2,6 +2,7 @@
 
   class Produit {
     private $ref; //référence unique du produit
+    private $categorie; //numéro de la catégorie du produit
     private $image; //image du produit
     private $titre; //nom du produit
     private $description; //texte descriptif
@@ -13,6 +14,10 @@
     //getters
     function getRef() : int {
         return $this->ref;
+    }
+
+    function getCategorie() : int {
+      return $this->categorie;
     }
 
     function getImage() : string {
