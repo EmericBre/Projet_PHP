@@ -9,12 +9,12 @@ require_once("../model/Produit.class.php");
         // L'objet local PDO de la base de donnée
         private $db;
         // Le type, le chemin et le nom de la base de donnée
-        private $database = 'sqlite:../data/db/bricomachin.db';
+        private $database = 'sqlite:../data/db/produitsmilitaires.db';
 
         // Constructeur chargé d'ouvrir la BD
         function __construct() {
           try {
-            $this->db = new PDO('sqlite:../data/db/bricomachin.db');
+            $this->db = new PDO('sqlite:../data/db/produitsmilitaires.db');
           }
           catch (PDOException $e){
             die("erreur de connexion:".$e->getMessage());

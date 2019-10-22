@@ -38,7 +38,6 @@
 
     function getPrix() : float {
         return $this->prix;
-
     }
 
     function getFabricant() : string {
