@@ -1,7 +1,7 @@
 <?php
 
-require_once("../model/Categorie.class.php");
-require_once("../model/Produit.class.php");
+require_once("Categorie.class.php");
+require_once("Produit.class.php");
 
 // Le Data Access Object
     // Il représente la base de donnée
@@ -9,12 +9,12 @@ require_once("../model/Produit.class.php");
         // L'objet local PDO de la base de donnée
         private $db;
         // Le type, le chemin et le nom de la base de donnée
-        private $database = 'sqlite:../data/db/produitsmilitaires.db';
+        private $database = 'sqlite:../data/produitsmilitaires.db';
 
         // Constructeur chargé d'ouvrir la BD
         function __construct() {
           try {
-            $this->db = new PDO('sqlite:../data/db/produitsmilitaires.db');
+            $this->db = new PDO('sqlite:../data/produitsmilitaires.db');
           }
           catch (PDOException $e){
             die("erreur de connexion:".$e->getMessage());
@@ -30,5 +30,6 @@ require_once("../model/Produit.class.php");
           $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
           return $resultat;
         }
+    }
 
 ?>

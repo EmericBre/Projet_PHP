@@ -68,5 +68,5 @@
       assert($this->prix > 0);
 
   }
-
+}
  ?>
