@@ -1,6 +1,6 @@
 <?php
 
-require_once("../model/Categorie.classe.php");
+require_once("../model/Categorie.class.php");
 require_once("../model/Produit.class.php");
 
 // Le Data Access Object
