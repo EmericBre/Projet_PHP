@@ -30,6 +30,14 @@ require_once("Produit.class.php");
           $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
           return $resultat;
         }
+
+        function getAllProduit() : array {
+          $m="SELECT * FROM article";
+          $sth = $this->db->query($m);
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
+          return $resultat;
+        }
+
     }
 
 ?>
