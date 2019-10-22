@@ -1,69 +1,69 @@
-1111||M16|Matériel individuel|
-1112||FAMAS|Matériel individuel|
-1113||AK-47|Matériel individuel|
+1111|||M16|Matériel individuel|
+1112|||FAMAS|Matériel individuel|
+1113|||AK-47|Matériel individuel|
 
-1121||MG3|Matériel individuel|
-1122||FN Minimi|Matériel individuel|
-1123||M60|Matériel individuel|
+1121|||MG3|Matériel individuel|
+1122|||FN Minimi|Matériel individuel|
+1123|||M60|Matériel individuel|
 
-1131||OB64 - UGO|Matériel individuel|
-1132||PULSAR ACOLADE LRF XQ38|Matériel individuel|
+1131|||OB64 - UGO|Matériel individuel|
+1132|||PULSAR ACOLADE LRF XQ38|Matériel individuel|
 
-1211||MO 120 RT|Artillerie|
-1212||M224|Artillerie|
+1211|||MO 120 RT|Artillerie|
+1212|||M224|Artillerie|
 
-1221||CAESAR|Artillerie|
-1222||TRF1|Artillerie|
+1221|||CAESAR|Artillerie|
+1222|||TRF1|Artillerie|
 
-1231||M270 MLRS|Artillerie|
+1231|||M270 MLRS|Artillerie|
 
-131||VAB|Transports|
-132||PVP|Transports|
-133||VBMR Griffon|Transports|
+131|||VAB|Transports|
+132|||PVP|Transports|
+133|||VBMR Griffon|Transports|
 
-141||VCBI|Véhicules légers|
-142||AMX-10 RC|Véhicules légers|
+141|||VCBI|Véhicules légers|
+142|||AMX-10 RC|Véhicules légers|
 
-151||Char Leclerc|Chars|
-152||M1 Abrams|Chars|
-153||Leopard 2|Chars|
+151|||Char Leclerc|Chars|
+152|||M1 Abrams|Chars|
+153|||Leopard 2|Chars|
 
-2111||Dassault Rafale|Avions|
-2112||Eurofighter Typhoon|Avions|
-2113||Lockheed Martin F-22 Raptor|Avions|
+2111|||Dassault Rafale|Avions|
+2112|||Eurofighter Typhoon|Avions|
+2113|||Lockheed Martin F-22 Raptor|Avions|
 
-2121||Grumman F-14 Tomcat|Avions|
-2122||MIG-31|Avions|
+2121|||Grumman F-14 Tomcat|Avions|
+2122|||MIG-31|Avions|
 
-2131||Fairchild A-10 Thunderbolt II|Avions|
-2132||McDonnell Douglas F/A-18 Hornet|Avions|
+2131|||Fairchild A-10 Thunderbolt II|Avions|
+2132|||McDonnell Douglas F/A-18 Hornet|Avions|
 
-2141||Rockwell B-1 Lancer|Avions|
-2142||Boeing B-52 Stratofortress|Avions|
+2141|||Rockwell B-1 Lancer|Avions|
+2142|||Boeing B-52 Stratofortress|Avions|
 
-2151||Airbus A400M|Avions|
-2152||C-130 Hercules|Avions|
-2153||Transall C-160|Avions|
+2151|||Airbus A400M|Avions|
+2152|||C-130 Hercules|Avions|
+2153|||Transall C-160|Avions|
 
-2211||Eurocopter EC665 Tigre|Hélicotpères|
-2212||AH-1W Super Cobra|Hélicotpères|
+2211|||Eurocopter EC665 Tigre|Hélicotpères|
+2212|||AH-1W Super Cobra|Hélicotpères|
 
-2221||Gazelle|Hélicotpères|
-2222||MD Helicopters MH-6 Little Bird|Hélicotpères|
-2223||Hughes MD 500 Defender|Hélicotpères|
+2221|||Gazelle|Hélicotpères|
+2222|||MD Helicopters MH-6 Little Bird|Hélicotpères|
+2223|||Hughes MD 500 Defender|Hélicotpères|
 
-2231||H160M Guépard|Hélicotpères|
-2232||Boeing CH-47 Chinook|Hélicotpères|
+2231|||H160M Guépard|Hélicotpères|
+2232|||Boeing CH-47 Chinook|Hélicotpères|
 
-311||classe Mistral|Porte-avions|
-312||classe Gerald R. Ford|Porte-avions|
-313||classe Nimitz|Porte-avions|
+311|||classe Mistral|Porte-avions|
+312|||classe Gerald R. Ford|Porte-avions|
+313|||classe Nimitz|Porte-avions|
 
-321||classe Le Triomphant|Sous-marins|
-322||classe Ohio|Sous-marins|
-323||classe Vanguard|Sous-marins|
+321|||classe Le Triomphant|Sous-marins|
+322|||classe Ohio|Sous-marins|
+323|||classe Vanguard|Sous-marins|
 
-331||classe Ticonderoga|Croiseurs|
+331|||classe Ticonderoga|Croiseurs|
 
-341||classe Lafayette|Frégates|
-342||classe FREMM|Frégates|
+341|||classe Lafayette|Frégates|
+342|||classe FREMM|Frégates|
