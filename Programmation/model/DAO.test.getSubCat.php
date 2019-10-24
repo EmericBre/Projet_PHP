@@ -30,7 +30,7 @@ foreach ($prod as $w) {
 
 // Affiche un produit
 print("Le produit de la classe ".$prod[0]->getRef().' '.$prod[0]->getTitre()." est :"."\n") {
-  $produitindiv = $dao->getArticle($prod[0]->getCategorie(), $prod[0]->getRef());
+  $produitindiv = $dao->getArticle($prod[0]->getCategorie(), $prod[0]->getRef())
   print($produitindiv->getRef().' '.$produitindiv->getCategorie().' '.$produitindiv->getImage().' '.$produitindiv->getTitre().' '.$produitindiv->getDescription().' '.$produitindiv->getCaractéristiques());
   print($produitindiv->getPrix().' '.$produitindiv->getFabricant().' '.$produitindiv->getDispo().' '."\n");
 }
