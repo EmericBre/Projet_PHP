@@ -64,7 +64,7 @@ require_once("Produit.class.php");
           return $resultat;
         }
 
-        function getArticle(int $cat, int $id) : Produit {
+        function getArticle(int $cat, int $id) : produit {
           $m="SELECT * FROM article WHERE categorie = $cat AND ref = $id";
           $sth = $this->db->query($m);
           $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
