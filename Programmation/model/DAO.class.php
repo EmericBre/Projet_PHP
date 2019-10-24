@@ -30,6 +30,20 @@ require_once("Produit.class.php");
           $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
           return $resultat;
         }
+
+        function getSubCat(int $cat) : array {
+          $m="SELECT * FROM categorie WHERE pere LIKE '$cat'";
+          $sth = $this->db->query($m);
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
+          return $resultat;
+        }
+
+        function getArticles(int $cat) : array {
+          $m="SELECT * FROM produit WHERE ref LIKE = '$cat.%'";
+          $sth = $this->db->query($m);
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Article");
+          return $resultat;
+        }
     }
 
 ?>
