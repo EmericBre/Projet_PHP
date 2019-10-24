@@ -6,6 +6,8 @@
   $categorie = $_GET["categorie"];
   $produit = $_GET["produit"];
 
-  $H = new 
+  $H = new DAO();
+  
 
+  include('.;/view/main.view.php');
 ?>
