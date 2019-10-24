@@ -5,7 +5,7 @@ require_once('DAO.class.php');
 // Creation de l'unique objet DAO
 $dao = new DAO();
 
-// Recupère toutes les catégories
+// Recupère tous les produits
 $cat = $dao->getAllProduit();
 
 // Affiche 1 produit pour le test

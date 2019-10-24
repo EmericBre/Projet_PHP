@@ -39,9 +39,9 @@ require_once("Produit.class.php");
         }
 
         function getArticles(int $cat) : array {
-          $m="SELECT * FROM produit WHERE ref LIKE = '$cat.%'";
+          $m="SELECT * FROM article WHERE ref LIKE = '$cat.%'";
           $sth = $this->db->query($m);
-          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Article");
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
           return $resultat;
         }
 
