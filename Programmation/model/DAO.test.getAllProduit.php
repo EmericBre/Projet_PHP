@@ -8,12 +8,7 @@ $dao = new DAO();
 // Recupère toutes les catégories
 $cat = $dao->getAllProduit();
 
-// Affiche 2 produits pour le test : affiche le pere d'un produit
-print($cat[2]->getRef().' '.$cat[2]->getNom().' < '.$cat[2]->getPere()). ' ';
-foreach ($cat as $v) {
-  if ($v->getRef() == $cat[2]->getPere()) {
-    print($v->getNom()."\n");
-  }
-}
-
+// Affiche 1 produit pour le test
+print($cat[2]->getRef().' '.$cat[2]->getCategorie().' '.$cat[2]->getImage().' '.$cat[2]->getTitre().' '.$cat[2]->getDescription().' '.$cat[2]->getCaractéristiques());
+print($cat[2]->getPrix().' '.$cat[2]->getFabricant().' '.$cat[2]->getDispo().' '."\n");
  ?>
