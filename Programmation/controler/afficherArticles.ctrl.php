@@ -9,5 +9,5 @@ $H = new DAO();
 
 $produits = $H->getArticles($categorie);
 
-include('../view/article.view.php');
+include('../view/articles.view.php');
 ?>
