@@ -41,7 +41,7 @@ require_once("Produit.class.php");
         function getArticles(int $cat) : array {
           $m="SELECT * FROM article WHERE categorie LIKE = '$cat'";
           $sth = $this->db->query($m);
-          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Article");
           return $resultat;
         }
 
