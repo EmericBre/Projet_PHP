@@ -4,10 +4,11 @@
   require_once('../model/DAO.class.php');
 
   $categorie = $_GET["categorie"];
-  $produit = $_GET["produit"];
+  $ref = $_GET["produit"];
 
   $H = new DAO();
-  
 
-  include('.;/view/main.view.php');
+  $produit = $H->getArticle($categorie,$ref);
+
+  include('../view/article.view.php');
 ?>
