@@ -31,6 +31,18 @@ require_once("Produit.class.php");
           return $resultat;
         }
 
+        function getCat(int $ref) : categorie {
+          $m="SELECT * FROM categorie WHERE ref = $ref";
+          $sth = $this->db->query($m);
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
+          foreach ($resultat as $valeur) {
+            if($valeur->getRef() == $id) {
+              $categorie = $valeur;
+            }
+          }
+          return $categorie;
+        }
+
         function getSubCat(int $cat) : array {
           $m="SELECT * FROM categorie WHERE pere LIKE $cat";
           $sth = $this->db->query($m);
