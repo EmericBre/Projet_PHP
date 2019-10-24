@@ -41,7 +41,7 @@ require_once("Produit.class.php");
         function getArticles(int $cat) : array {
           $m="SELECT * FROM article WHERE categorie = $cat";
           $sth = $this->db->query($m);
-          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Article");
+          $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
           return $resultat;
         }
 
@@ -52,7 +52,7 @@ require_once("Produit.class.php");
           return $resultat;
         }
 
-        function getArticle(int $cat, int $id) : produit {
+        function getArticle(int $cat, int $id) : Produit {
           $m="SELECT * FROM article WHERE categorie = $cat AND ref = $id";
           $sth = $this->db->query($m);
           $article = $sth->fetchAll(PDO::FETCH_CLASS, "Produit");
