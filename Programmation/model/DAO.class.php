@@ -36,7 +36,7 @@ require_once("Produit.class.php");
           $sth = $this->db->query($m);
           $resultat = $sth->fetchAll(PDO::FETCH_CLASS, "Categorie");
           foreach ($resultat as $valeur) {
-            if($valeur->getRef() == $id) {
+            if($valeur->getRef() == $ref) {
               $categorie = $valeur;
             }
           }

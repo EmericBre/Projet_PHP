@@ -1,28 +1,28 @@
-1|Terre|0
-2|Air|0
-3|Mer|0
-11|Matériel individuel|1
-12|Artillerie|1
-13|Transports|1
-14|Véhicules légers|1
-15|Chars|1
-21|Avions|2
-22|Hélicotpères|2
-31|Porte-avions|3
-32|Sous-marins|3
-33|Croiseurs|3
-34|Frégates|3
-211|Avions de chasse|21
-212|Intercepteurs|21
-213|Avions d'attaque au sol|21
-214|Bombardiers|21
-215|Transports|21
-221|Hélicotpères d'attaque|22
-222|Hélicotpères de reconnaissance|22
-223|Hélicotpères de transport|22
-111|Fusils d'assaut|11
-112|Mitrailleuses|11
-113|Matériel optique|11
-121|Mortiers|12
-122|Obusiers|12
-123|Lance Roquettes|12
+1|Terre|0|1
+2|Air|0|1
+3|Mer|0|1
+11|Matériel individuel|1|1
+12|Artillerie|1|1
+13|Transports|1|0
+14|Véhicules légers|1|0
+15|Chars|1|0
+21|Avions|2|1
+22|Hélicotpères|2|1
+31|Porte-avions|3|0
+32|Sous-marins|3|0
+33|Croiseurs|3|0
+34|Frégates|3|0
+211|Avions de chasse|21|0
+212|Intercepteurs|21|0
+213|Avions d'attaque au sol|21|0
+214|Bombardiers|21|0
+215|Transports|21|0
+221|Hélicotpères d'attaque|22|0
+222|Hélicotpères de reconnaissance|22|0
+223|Hélicotpères de transport|22|0
+111|Fusils d'assaut|11|0
+112|Mitrailleuses|11|0
+113|Matériel optique|11|0
+121|Mortiers|12|0
+122|Obusiers|12|0
+123|Lance Roquettes|12|0

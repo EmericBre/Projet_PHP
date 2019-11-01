@@ -15,5 +15,6 @@ CREATE TABLE categorie (
   ref INTEGER PRIMARY KEY,
   nom TEXT,
   pere INTEGER,
+  fille INTEGER,
   FOREIGN KEY(pere) REFERENCES categorie(id)
 );

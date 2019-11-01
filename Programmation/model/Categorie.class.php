@@ -4,6 +4,7 @@
     private $ref; //référence unique de la catégorie
     private $nom; //nom de la catégorie
     private $pere; //catégorie père
+    private $fille; //présence d'une catégorie fille ou non
 
     //getters
     function getRef() : int {
@@ -16,6 +17,10 @@
 
     function getPere() : string {
       return $this->pere;
+    }
+
+    function getFille() : int {
+      return $this->fille;
     }
   }
 

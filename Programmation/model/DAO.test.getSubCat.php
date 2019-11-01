@@ -15,8 +15,8 @@ foreach ($souscat as $v) {
   print($v->getRef().' '.$v->getNom()."\n");
 }
 
-print("La classe ".$souscat[1]->getRef().' '.$souscat[1]->getNom()." a pour classes filles :"."\n");
-$souscat2 = $dao->getSubCat($souscat[1]->getRef());
+print("La classe ".$souscat[0]->getRef().' '.$souscat[0]->getNom()." a pour classes filles :"."\n");
+$souscat2 = $dao->getSubCat($souscat[0]->getRef());
 foreach ($souscat2 as $x) {
   print($x->getRef().' '.$x->getNom()."\n");
 }
