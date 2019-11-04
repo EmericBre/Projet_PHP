@@ -5,6 +5,7 @@
     <title><?= $currentCategorie->getNom() ?></title>
   </head>
   <body>
+    <h1>Gun and Co, la démocratie à petit prix</h1>
       <?php foreach ($subCategories as $subCat): ?>
         <?php if ($subCat->getFille() == 1) { ?>
       <a href="afficherCategories.ctrl.php?categorie=<?= $subCat->getRef() ?>"> <?= $subCat->getNom() ?> </a> <br>

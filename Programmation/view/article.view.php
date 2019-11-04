@@ -7,10 +7,10 @@
   <body>
     <h1><?= $produit->getTitre() ?></h1>
     <img src="../view/Design/<?= $produit->getImage() ?>" alt="">
-    <p> Description : <?= print($produit->getDescription()."\n"); ?>
-        Caractéristiques : <?= print($produit->getCaractéristiques()."\n"); ?>
-        Prix : <?= print($produit->getPrix()."\n"); ?>
-        Fabricant : <?= print($produit->getFabricant()."\n"); ?>
-        Disponibilité : <?= print($produit->getDispo()."\n"); ?></p>
+    <p> Description : <?php print($produit->getDescription()); ?> <br> </p>
+    <p> Caractéristiques : <?php print($produit->getCaractéristiques()); ?> <br> </p>
+    <p> Prix : <?php print($produit->getPrix()); ?> <br> </p>
+    <p> Fabricant : <?php print($produit->getFabricant()); ?> <br> </p>
+    <p> Disponibilité : <?php print($produit->getDispo()); ?> <br> </p>
   </body>
 </html>
