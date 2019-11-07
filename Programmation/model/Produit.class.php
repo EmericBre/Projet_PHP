@@ -44,7 +44,7 @@
       return $this->fabricant;
     }
 
-    function getDispo() : int {
+    function getDispo() : string {
       return $this->dispo;
     }
 

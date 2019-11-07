@@ -7,13 +7,14 @@ CREATE TABLE article (
   caracteristiques TEXT,
   prix REAL,
   fabricant TEXT,
-  dispo INTEGER,
+  dispo TEXT,
   FOREIGN KEY(categorie) REFERENCES categorie(id)
 );
 
 CREATE TABLE categorie (
   ref INTEGER PRIMARY KEY,
   nom TEXT,
+  image TEXT,
   pere INTEGER,
   fille INTEGER,
   FOREIGN KEY(pere) REFERENCES categorie(id)

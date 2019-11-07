@@ -8,7 +8,7 @@
   <body>
     <h1><?= $produit->getTitre() ?></h1>
     <div class="produit">
-      <img src="../view/Design/<?= $produit->getImage() ?>" alt="">
+      <img src="../view/Design/Produits/<?= $produit->getImage() ?>" alt="">
       <div class="caractéristiques">
         <p> Description : <?php print($produit->getDescription()); ?> <br> </p>
         <p> Caractéristiques : <?php print($produit->getCaractéristiques()); ?> <br> </p>

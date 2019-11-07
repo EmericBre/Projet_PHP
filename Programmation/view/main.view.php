@@ -13,7 +13,7 @@
     <div class="">
       <?php foreach ($categories as $cat) {
         if ($cat->getRef() < 10 ) { ?>
-          <a href="afficherCategories.ctrl.php?categorie=<?= $cat->getRef() ?>" class="<?= $cat->getNom() ?>"> <img src="../view/Design/<?= $cat->getNom() ?>.jpeg" alt=""/> <?= $cat->getNom() ?> </a> <br>
+          <a href="afficherCategories.ctrl.php?categorie=<?= $cat->getRef() ?>" class="<?= $cat->getNom() ?>"> <img src="../view/Design/Catégories/<?= $cat->getImage() ?>" alt=""/> <?= $cat->getNom() ?> </a> <br>
           <br>
         <?php }
       } ?>

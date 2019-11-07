@@ -12,14 +12,14 @@
       <?php require_once('../controler/afficherCategories.ctrl.php'); ?>
       <?php foreach ($subCategories as $subCat): ?>
         <?php if ($subCat->getFille() == 1) { ?>
-          <a href="afficherCategories.ctrl.php?categorie=<?= $subCat->getRef() ?>" > <img src="../view/Design/Terre.jpeg" alt=""> <?= $subCat->getNom() ?> </a> <br>
+          <a href="afficherCategories.ctrl.php?categorie=<?= $subCat->getRef() ?>" > <img src="../view/Design/Catégories/<?= $subCat->getImage() ?>" alt=""> <?= $subCat->getNom() ?> </a> <br>
           <br>
         <?php } endforeach;?>
     </div>
     <div class="catégorie">
         <?php foreach ($subCategories as $subCat): ?>
         <?php if ($subCat->getFille() == 0) { ?>
-          <a href="afficherArticles.ctrl.php?categorie=<?= $subCat->getRef() ?>" > <img src="../view/Design/Terre.jpeg" alt=""> <?= $subCat->getNom() ?> </a> <br>
+          <a href="afficherArticles.ctrl.php?categorie=<?= $subCat->getRef() ?>" > <img src="../view/Design/Catégories/<?= $subCat->getImage() ?>" alt=""> <?= $subCat->getNom() ?> </a> <br>
           <br>
         <?php } endforeach;?>
     </div>

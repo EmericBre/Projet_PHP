@@ -1,69 +1,45 @@
-1111|111|M16A1.jpeg|M16A1|Fusil d'assaut standard de l'armée américaine. Version militaire de la plateforme AR-15|Fusil d'assaut, configuration classique, calibre .223 Remington, poid à vide 3.1kg, poid chargé 3.55kg, capacité 30 coups, date de mise en service 1958|1100|Colt Manufacturing Company, Hartford, Etats-Unis|1
-1112|111|famas.jpeg|FAMAS|Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne. Ancien fusil d'assaut des forces armées francaises.|Fusil d'assaut, configuration bullpup, calibre 5,56, poid à vide 3.780kg, poid chargé 4.370kg, capacité 25 coups, date de mise en service 1973|1500|GIAT industries, Versaille, France|0
-1113|111|AK-47.jpeg|AK-47|Fusil d'assaut soviétique. Famille d'arme la plus produite au monde.|Fusil d'assaut, configuratioon classique, calibre 7.62 M43, poid à vide 4.3kg, poid chargé 5.12kg, capacité 30 coups, date de mise en service 1947|2000|Plus fabriquée|0
-
-1121|||MG3|Matériel individuel|
-1122|||FN Minimi|Matériel individuel|
-1123|||M60|Matériel individuel|
-
-1131|||OB64 - UGO|Matériel individuel|
-1132|||PULSAR ACOLADE LRF XQ38|Matériel individuel|
-
-1211|||MO 120 RT|Artillerie|
-1212|||M224|Artillerie|
-
-1221|||CAESAR|Artillerie|
-1222|||TRF1|Artillerie|
-
-1231|||M270 MLRS|Artillerie|
-
-131|||VAB|Transports|
-132|||PVP|Transports|
-133|||VBMR Griffon|Transports|
-
-141|||VCBI|Véhicules légers|
-142|||AMX-10 RC|Véhicules légers|
-
-151|||Char Leclerc|Chars|
-152|||M1 Abrams|Chars|
-153|||Leopard 2|Chars|
-
-2111|||Dassault Rafale|Avions|
-2112|||Eurofighter Typhoon|Avions|
-2113|||Lockheed Martin F-22 Raptor|Avions|
-
-2121|||Grumman F-14 Tomcat|Avions|
-2122|||MIG-31|Avions|
-
-2131|||Fairchild A-10 Thunderbolt II|Avions|
-2132|||McDonnell Douglas F/A-18 Hornet|Avions|
-
-2141|||Rockwell B-1 Lancer|Avions|
-2142|||Boeing B-52 Stratofortress|Avions|
-
-2151|||Airbus A400M|Avions|
-2152|||C-130 Hercules|Avions|
-2153|||Transall C-160|Avions|
-
-2211|||Eurocopter EC665 Tigre|Hélicotpères|
-2212|||AH-1W Super Cobra|Hélicotpères|
-
-2221|||Gazelle|Hélicotpères|
-2222|||MD Helicopters MH-6 Little Bird|Hélicotpères|
-2223|||Hughes MD 500 Defender|Hélicotpères|
-
-2231|||H160M Guépard|Hélicotpères|
-2232|||Boeing CH-47 Chinook|Hélicotpères|
-
-311|||classe Mistral|Porte-avions|
-312|||classe Gerald R. Ford|Porte-avions|
-313|||classe Nimitz|Porte-avions|
-
-321|||classe Le Triomphant|Sous-marins|
-322|||classe Ohio|Sous-marins|
-323|||classe Vanguard|Sous-marins|
-
-331|||classe Ticonderoga|Croiseurs|
-
-341|||classe Lafayette|Frégates|
-342|||classe FREMM|Frégates|
+1111|111|M16A1.jpeg|M16A1|Fusil d'assaut standard de l'armée américaine. Version militaire de la plateforme AR-15.|Fusil d'assaut, configuration classique, calibre .223 Remington, poid à vide 3.1kg, poid chargé 3.55kg, capacité 30 coups, date de mise en service 1958|1100|Colt Manufacturing Company, Hartford, Etats-Unis|oui
+1112|111|famas.jpeg|FAMAS|Fusil d'Assaut de la Manufacture d'Armes de Saint-Etienne. Ancien fusil d'assaut des forces armées francaises.|Fusil d'assaut, configuration bullpup, calibre 5,56, poid à vide 3.780kg, poid chargé 4.370kg, capacité 25 coups, date de mise en service 1973|1500|GIAT industries, Versaille, France|non
+1113|111|AK-47.jpeg|AK-47|Fusil d'assaut soviétique. Famille d'arme la plus produite au monde.|Fusil d'assaut, configuratioon classique, calibre 7.62 M43, poid à vide 4.3kg, poid chargé 5.12kg, capacité 30 coups, date de mise en service 1947|2000|Plus fabriquée|non
+1121|112|MG3.jpeg|MG3|Mitrailleuse allemande.|Mitrailleuse lourde, calibre 7.62, poids à vide 11.5kg, capacité 50-250 coups, date de mise en service 1950|3000|Rheinmetall, Allemagne|oui
+1122|112|Minimi.jpeg|FN Minimi|Fusil-mitrailleur franco-belge. Arme standard de l'armée de terre française.|Mitrailleuse légère, calibre 5.56/7.62, poids à vide 7.1kg, capacité 30/100 coups, date de mise en service 1974|3000|FN Herstal, Belgique|oui
+1123|112|M60.jpeg|M60|Mitrailleuse standard de l'armée américaine|Mitrailleuse légère, calibre 7.62, poids à vide 10.5kg, capacité 100/200 coups, date de mise en service 1957|3000|General Dynamics, Etats-Unis|non
+1131|113|OB64.jpeg|OB64 - UGO|Jumelle de vision nocturne|Jumelle de vision nocturne, poids 0.75kg|1|BDD non finie|non
+1132|113|pulsar_Acolade.jpeg|PULSAR ACCOLADE LRF XQ38|Jumelle à vision thermique|Jumelle de vision thermique, poids 0.6kg|3845|Pulsar|oui
+1211|121|M0-120.jpeg|MO 120 RT|Mortier de 120mm standard de l'armée de terre française.|Mortier de 120 mm, calibre 120mm, poids à vide 530/600kg, date de mise en service 1973|1|BDD non finie|oui
+1212|121|M224.jpeg|M224|Mortier de 81mm standard de l'armée de terre américaine.|Mortier de 81 mm, calibre 81mm, poids à vide 21.1kg, date de mise en service 1978|10658|BDD non finie|oui
+1221|122|caesar.jpeg|CAESAR|Obusier automoteur standard de l'armée de terre française.|Obusier automoteur, calibre 155mm, poids à vide 17.7 tonnes, date de mise en service 2004|5000000|BDD non finie|oui
+1222|122|TRF1.jpeg|TRF1|Canon tracté français.|Canon tracté, calibre 155mm, poids à vide 10.5 tonnes, date de mise en service 1979|?|BDD non finie|oui
+1231|123|M270.jpeg|M270 MLRS|Lance-roquettes multiple américain.|Lance-roquettes multiple, roquettes de 1.6 tonnes, poids à vide 25 tonnes, date de mise en service 1983|2300000|BDD non finie|oui
+131|13|VAB.jpeg|VAB|Véhicule de l'Avant Blindé. Véhicule de transport blindé standard de l'armée de terre française.|BDD non finie|1|BDD non finie|BDD non finie
+132|13|PVP.jpeg|PVP|Petit Véhicule Protégé. Petit Véhicule de liaison et sûreté français.|Léger|1|BDD non finie|BDD non finie
+133|13|VBMR.jpeg|VBMR Griffon|Nouveau véhicule de transport blindé de l'armée de terre française.|BDD non finie|1|BDD non finie|BDD non finie
+141|14|VBCI.jpeg|VCBI|Véhicule Blindé de Combat d'Infanterie. Standard de l'armée de terre française.|BDD non finie|1|BDD non finie|BDD non finie
+142|14|AMX-10-RC|AMX-10 RC|Blindé léger de reconnaissance de l'amrée de terre française.|BDD non finie|1|BDD non finie|BDD non finie
+151|15|leclerc.jpeg|Char Leclerc|Char d'assaut standard de l'armée de terre française.|BDD non finie|1|BDD non finie|BDD non finie
+152|15|abrams.jpeg|M1 Abrams|Char d'assaut standard de l'armée de terre américaine.|BDD non finie|1|BDD non finie|BDD non finie
+153|15|leopard.jpeg|Leopard 2|Char d'assaut standard de l'armée de terre allemande.|BDD non finie|1|BDD non finie|BDD non finie
+2111|211|Rafale.jpeg|Dassault Rafale|Chasseur multirôle de l'armée de l'air française.|BDD non finie|1|BDD non finie|BDD non finie
+2112|211|typhoon.jpeg|Eurofighter Typhoon|Chasseur de fabrication européenne, en fonction dans plusieurs armées en Europe.|BDD non finie|1|BDD non finie|BDD non finie
+2113|211|f22.jpeg|Lockheed Martin F-22 Raptor|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2121|212|F-14.jpeg|Grumman F-14 Tomcat|Intercepteur américain.|BDD non finie|1|BDD non finie|BDD non finie
+2122|212|MIG-31.jpeg|MIG-31|Intercepteur russe.|BDD non finie|1|BDD non finie|BDD non finie
+2131|213|A-10.jpeg|Fairchild A-10 Thunderbolt II|Avion d'attaque au sol standard de l'armée de l'air américaine.|BDD non finie|1|BDD non finie|BDD non finie
+2132|213|FA-18.jpeg|McDonnell Douglas F/A-18 Hornet|Avion d'attaque au sol standard de l'armée de l'air américaine.|BDD non finie|1|BDD non finie|BDD non finie
+2141|214|B1.jpeg|Rockwell B-1 Lancer|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2142|214|B52.jpeg|Boeing B-52 Stratofortress|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2151|215|A400M.jpeg|Airbus A400M|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2152|215|C130.jpeg|C-130 Hercules|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2153|215|C160.jpeg|Transall C-160|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2211|221|Tigre.jpeg|Eurocopter EC665 Tigre|Hélicoptère d'attaque standard de l'armée de terre francaise. Fabrication européenne.|BDD non finie|1|BDD non finie|BDD non finie
+2212|221|SuperCobra.jpeg|AH-1W Super Cobra|Hélicoptère d'attaque standard de l'armée américaine.|BDD non finie|1|BDD non finie|BDD non finie
+2221|222|Gazelle.jpeg|Gazelle|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2222|222|LittleBird.jpeg|MD Helicopters MH-6 Little Bird|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2223|222|Defender.jpeg|Hughes MD 500 Defender|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2231|223|H160M.jpeg|H160M Guépard|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+2232|223|Chinook.jpeg|Boeing CH-47 Chinook|BDD non finie|BDD non finie|1|BDD non finie|BDD non finie
+311|31|Mistral.jpeg|classe Mistral|Porte Hélicoptères de la marine nationnale|Porte Hélicoptère, 16 hélicoptères, poids à vide 16500 tonnes, longueur 199 mètres, date de mise en service 2006.|420000000|BDD non finie|oui
+312|31|GeraldRFord.jpeg|classe Gerald R. Ford|Porte avion dernière génération de la marine américaine.|Porte avions nucléaire, 75 aéronefs, poids à vide 100000 tonnes, longeur 333 mètres, date de mise en service 2013.|5000000000|Chantier naval Northrop Grumman de Newport News, USA|oui
+321|32|Ticonderoga.jpeg|classe Ticonderoga|Croiseur de l'US Navy spécialisé dans la défense anti-aérienne|Croiseurs anti-aérien, 6 tubes lance-missiles, 4 canons, 2 tubes lance-torpilles, poids à vide 9957 tonnes, longueur 172.32 mètres, date de mise en service 1983.|1000000000|Chantier naval Ingalls de Pascagoula|oui
+331|33|Lafayette.jpeg|classe Lafayette|Frégate dernière génération de la marine nationnale française.|Frégate furtive, 8 missiles et 3 canons, poids à vide 3200 tonnes, longueur 125 mètres, date de mise en service 1992.|190000000|Chantiers navaux de Cherbourg et de Lorient|oui
+332|33|FREMM.jpeg|classe FREMM|Frégate dernière génération de fabrication européenne.|Frégate furtive 2eme génération, 3 canons, 19 torpilles et 24-48 missiles, poids à vide 6000 tonnes, longueur 142 mètres, date de mise en service 2013|670000000|BDD non finie|oui

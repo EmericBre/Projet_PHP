@@ -1,28 +1,27 @@
-1|Terre|0|1
-2|Air|0|1
-3|Mer|0|1
-11|Matériel individuel|1|1
-12|Artillerie|1|1
-13|Transports|1|0
-14|Véhicules légers|1|0
-15|Chars|1|0
-21|Avions|2|1
-22|Hélicotpères|2|1
-31|Porte-avions|3|0
-32|Sous-marins|3|0
-33|Croiseurs|3|0
-34|Frégates|3|0
-211|Avions de chasse|21|0
-212|Intercepteurs|21|0
-213|Avions d'attaque au sol|21|0
-214|Bombardiers|21|0
-215|Transports|21|0
-221|Hélicotpères d'attaque|22|0
-222|Hélicotpères de reconnaissance|22|0
-223|Hélicotpères de transport|22|0
-111|Fusils d'assaut|11|0
-112|Mitrailleuses|11|0
-113|Matériel optique|11|0
-121|Mortiers|12|0
-122|Obusiers|12|0
-123|Lance Roquettes|12|0
+1|Terre|Terre.jpeg|0|1
+2|Air|Air.jpeg|0|1
+3|Mer|Mer.jpeg|0|1
+11|Matériel individuel|Matériel.jpeg|1|1
+12|Artillerie|Artillerie.jpeg|1|1
+13|Transports|Transports.jpeg|1|0
+14|Véhicules légers|Véhicules.jpeg|1|0
+15|Chars|Chars.jpeg|1|0
+21|Avions|Avions.jpeg|2|1
+22|Hélicoptères|Hélicoptère.jpeg|2|1
+31|Porte-avions|Porte_Avion.jpeg|3|0
+32|Croiseurs|Croiseurs.jpeg|3|0
+33|Frégates|Frégates.jpeg|3|0
+211|Avions de chasse|Avions_Chasse.jpeg|21|0
+212|Intercepteurs|Intercepteurs.jpeg|21|0
+213|Avions d'attaque au sol|Avions_Au_Sol.jpeg|21|0
+214|Bombardiers|Bombardiers.jpeg|21|0
+215|Transports|Avions_Transports.jpeg|21|0
+221|Hélicoptères d'attaque|hélico_attaque.jpeg|22|0
+222|Hélicoptères de reconnaissance|hélico_reco.jpeg|22|0
+223|Hélicoptères de transport|hélico_transport.jpeg|22|0
+111|Fusils d'assaut|fusils.jpeg|11|0
+112|Mitrailleuses|mitrailleuses.jpeg|11|0
+113|Matériel optique|matériel_optique.jpeg|11|0
+121|Mortiers|mortiers.jpeg|12|0
+122|Obusiers|obusiers.jpeg|12|0
+123|Lance Roquettes|lances-roquettes.jpeg|12|0
