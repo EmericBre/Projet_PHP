@@ -9,7 +9,6 @@ $H = new DAO();
 
 $currentCategorie = $H->getCat($categorie);
 $subCategories = $H->getSubCat($categorie);
-$nbCompt = 0;
 
 include('../view/categories.view.php');
 ?>

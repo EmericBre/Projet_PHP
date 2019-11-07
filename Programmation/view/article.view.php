@@ -17,5 +17,6 @@
         <p> Disponibilité : <?php print($produit->getDispo()); ?> <br> </p>
       </div>
     </div>
+    <a href="afficherArticles.ctrl.php?categorie=<?= $categorie ?>" class="retour"> <img src="../view/Design/flèche_arrière.jpeg" alt="">Retour</a>
   </body>
 </html>

@@ -33,5 +33,10 @@
           <br>
         <?php } endforeach;?>
     </div>
+    <?php if ($currentCategorie->getPere()!=0) { ?>
+      <a href="afficherCategories.ctrl.php?categorie=<?= $currentCategorie->getPere() ?>" class="retour"> <img src="../view/Design/flèche_arrière.jpeg" alt="">Retour</a>
+    <?php } else { ?>
+      <a href="main.ctrl.php" class="retour"> <img src="../view/Design/flèche_arrière.jpeg" alt="">Retour</a>
+    <?php } ?>
   </body>
 </html>

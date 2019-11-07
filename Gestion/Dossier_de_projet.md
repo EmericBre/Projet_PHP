@@ -1,6 +1,6 @@
 # Description du projet :
 
-Le but est de proposer un site fonctionnel permettant la présentation de produits divers destinés à être vendus par la suite. Nous avons choisi de réaliser celui-ci sur le matériel militaire afin de prendre un thème original. Le site devra pouvoir permettre l'achat de matériel militaire selon différentes catégories.
+Le but est de proposer un site fonctionnel permettant la présentation de produits divers destinés à être vendus par la suite sur d'autres sites divers et variés. Nous avons choisi de réaliser celui-ci sur le matériel militaire afin de prendre un thème original. Le site devra pouvoir permettre à terme la présentation complète de matériel militaire selon différentes catégories, ainsi que les sites vendeurs.
 
 # Analyse de l'existant :
 
@@ -14,4 +14,4 @@ Cela semble important de voir ce qui existe déjà, et d'analyser ces sites afin
 
 # Expression des besoins :
 
-Le site devra pouvoir donner des informations générales mais également plus précises concernant tous les différents types de matériels militaires dont l'on disposera sur le site internet. 
+Le site devra pouvoir donner des informations générales mais également plus précises concernant tous les différents types de matériels militaires dont l'on disposera sur le site internet.

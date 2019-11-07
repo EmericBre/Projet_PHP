@@ -12,5 +12,7 @@
   <?php foreach ($produits as $produit): ?>
     <a href="afficherArticle.ctrl.php?categorie=<?= $produit->getCategorie() ?>&produit=<?= $produit->getRef() ?>"> <img src="../view/Design/Produits/<?= $produit->getImage() ?>" alt=""/> <?= $produit->getTitre() ?> </a>
   <?php endforeach; ?>
+
+  <a href="afficherCategories.ctrl.php?categorie=<?= $cat->getPere() ?>" class="retour"> <img src="../view/Design/flèche_arrière.jpeg" alt="">Retour</a>
 </body>
 </html>
