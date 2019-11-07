@@ -7,6 +7,8 @@ $categorie = $_GET["categorie"];
 
 $H = new DAO();
 
+$cat = $H->getCat($categorie);
+
 $produits = $H->getArticles($categorie);
 
 include('../view/articles.view.php');
