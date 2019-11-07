@@ -6,7 +6,7 @@
     <link rel="stylesheet" media="screen" href="../view/main.view.css" />
   </head>
   <body>
-    <h1>Gun and Co, la démocratie à petit prix</h1>
+    <h1>Gun and Co</h1>
 
     <h2>Site d'information d'équipements militaires pour toutes armées</h2>
 

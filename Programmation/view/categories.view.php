@@ -6,8 +6,18 @@
     <link rel="stylesheet" href="../view/categories.view.css">
   </head>
   <body>
-    <h1>Gun and Co, la démocratie à petit prix</h1>
-    <h2>Retrouvez ici les meilleurs équipements de la catégorie <?= $currentCategorie->getNom() ?> </h2>
+    <h1>Gun and Co</h1>
+    <?php if ($currentCategorie->getRef()<3) { ?>
+      <h2>Retrouvez ici les meilleurs équipements de l'Armée de <?= $currentCategorie->getNom() ?></h2>
+    <?php } else if ($currentCategorie->getRef()==3) { ?>
+      <h2>Retrouvez ici les meilleurs équipements de la Marine Nationale</h2>
+    <?php } else if ($currentCategorie->getRef()==11) { ?>
+      <h2>Retrouvez ici les meilleurs équipements concernant le <?= $currentCategorie->getNom() ?></h2>
+    <?php } else if ($currentCategorie->getRef()==12) { ?>
+      <h2>Retrouvez ici les meilleurs équipements concernant l'<?= $currentCategorie->getNom() ?></h2>
+    <?php } else if ($currentCategorie->getRef()==21 || $currentCategorie->getRef()==22) { ?>
+      <h2>Retrouvez ici les meilleurs équipements concernant les <?= $currentCategorie->getNom() ?></h2>
+    <?php } ?>
     <div class="produit">
       <?php require_once('../controler/afficherCategories.ctrl.php'); ?>
       <?php foreach ($subCategories as $subCat): ?>
